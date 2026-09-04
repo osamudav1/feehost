@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.sqlite3
+rt777_uploads/
+rt777_audio/
+.DS_Store
